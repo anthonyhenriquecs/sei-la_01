@@ -12,3 +12,4 @@ elif exp >= 6001 and exp < 7000:
   print("ouro")
 elif exp >= 8001 and exp < 9000:
   print("platina")
+
